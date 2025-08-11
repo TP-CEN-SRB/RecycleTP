@@ -107884,7 +107884,7 @@ s=p}while(true)switch(s){case 0:p=4
 s=7
 return A.u(n.b.em(),$async$xk)
 case 7:m=e
-l=n.a+"/api/disposal/redeem"
+l=n.a+"/api/disposal/"+b
 j=A.cG(l,0,null)
 i=t.N
 h=A.aa(["Authorization","Bearer "+A.m(m)],i,i)
