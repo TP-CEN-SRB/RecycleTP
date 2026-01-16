@@ -110564,7 +110564,7 @@ case 7:m=b
 l=A.hP(m).i(0,"userId")
 i=t.N
 s=8
-return A.p(A.i0(A.cx(n.a+"/api/profile/"+A.m(l),0,null),A.a6(["Authorization","Bearer "+A.m(m),"Content-Type","application/json"],i,i)),$async$B6)
+return A.p(A.i0(A.cx(n.a+"/api/profile/avatar/"+A.m(l),0,null),A.a6(["Authorization","Bearer "+A.m(m),"Content-Type","application/json"],i,i)),$async$B6)
 case 8:k=b
 if(k.b===200){i=k
 j=B.H.hJ(A.dD(A.dC(i.e).c.a.i(0,"charset")).bc(i.w),null)
